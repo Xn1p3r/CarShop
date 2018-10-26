@@ -1,0 +1,26 @@
+auth
+	/register
+	/login
+	/logout
+	/forgot
+	/disable
+	
+
+users
+	/users
+	/users/id
+	/users/self
+	/users/cars
+	/users/id/images
+	/users/id/videos
+
+cars
+	/types
+	/types/id
+	/brands
+	/brands/id
+	/models
+	/models/id
+	
+measure
+	/units
